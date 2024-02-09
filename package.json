@@ -1,0 +1,25 @@
+{
+  "name": "node-js-project",
+  "version": "1.0.0",
+  "description": "node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msuryaprakash7/node-js.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "surya prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msuryaprakash7/node-js/issues"
+  },
+  "homepage": "https://github.com/msuryaprakash7/node-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
